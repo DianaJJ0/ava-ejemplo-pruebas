@@ -1,0 +1,16 @@
+{
+  "name": "ava-ejemplo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": " Ejemplo básico de uso de AVA para pruebas en JavaScript",
+  "devDependencies": {
+    "ava": "^6.4.1"
+  }
+}
